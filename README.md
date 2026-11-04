@@ -114,6 +114,19 @@ const isuru = {
 
 ---
 
+## 🔄 Latest Repositories <sup><sub>(auto-updated)</sub></sup>
+
+<!--START_SECTION:repos-->
+| 📦 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🕒 Last push |
+|---|---|---|:---:|---|
+| [**PowerRig**](https://github.com/Isuru-CodeX/PowerRig) | PHP e-commerce platform with Stripe and PDF invoices | PHP | 0 | - |
+| [**SmartTrade**](https://github.com/Isuru-CodeX/SmartTrade) | Java and Hibernate phone marketplace | Java | 0 | - |
+| [**BookVerse**](https://github.com/Isuru-CodeX/BookVerse) | Java EE digital library and catalog manager | Java | 0 | - |
+| [**Task-Tracker**](https://github.com/Isuru-CodeX/Task-Tracker) | Java Servlets and React Native task manager | TypeScript | 0 | - |
+<!--END_SECTION:repos-->
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -178,9 +191,21 @@ pie showData title Projects by main language
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Isuru-CodeX/Isuru-CodeX/output/github-snake.svg" />
 </picture>
 
-<sub>🐍 Needs the snake workflow to run once. See the setup steps.</sub>
-
 </div>
+
+---
+
+## 🔁 How I Build
+
+```mermaid
+flowchart LR
+    A["💡 Idea"] --> B["🗂️ Plan and database design"]
+    B --> C["⚙️ Build the backend"]
+    C --> D["🎨 Build the frontend"]
+    D --> E["🧪 Test and fix"]
+    E --> F["🚀 Ship and improve"]
+    F -.->|"next feature"| A
+```
 
 ---
 
@@ -192,6 +217,33 @@ pie showData title Projects by main language
 - [ ] Add automated tests (JUnit, PHPUnit)
 - [ ] Build order processing and payments into SmartTrade
 - [ ] Launch a live demo of one of my projects
+
+---
+
+## 💬 Dev Quote of the Day <sup><sub>(changes daily)</sub></sup>
+
+<!--START_SECTION:quote-->
+> 💬 *"Talk is cheap. Show me the code."*
+>
+> **— Linus Torvalds**
+<!--END_SECTION:quote-->
+
+---
+
+## 🤝 Open To Collaborate
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Open_to-Collaboration-10b981?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaboration" />
+<img src="https://img.shields.io/badge/Interested_in-Java_EE_%7C_PHP_%7C_React_Native-6366f1?style=for-the-badge" alt="Interested in" />
+
+</div>
+
+| 💼 Platform | 🔗 Link |
+|---|---|
+| LinkedIn | [isuru-rathnayaka-220484288](https://www.linkedin.com/in/isuru-rathnayaka-220484288/) |
+| GitHub | [@Isuru-CodeX](https://github.com/Isuru-CodeX) |
+| Email | `YOUR_EMAIL` |
 
 ---
 
