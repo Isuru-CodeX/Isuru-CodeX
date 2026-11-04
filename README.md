@@ -65,21 +65,52 @@ const isuru = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Isuru-CodeX/PowerRig"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isuru-CodeX&repo=PowerRig&theme=tokyonight&hide_border=true" alt="PowerRig" /></a>
-<a href="https://github.com/Isuru-CodeX/SmartTrade"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isuru-CodeX&repo=SmartTrade&theme=tokyonight&hide_border=true" alt="SmartTrade" /></a>
-<a href="https://github.com/Isuru-CodeX/BookVerse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isuru-CodeX&repo=BookVerse&theme=tokyonight&hide_border=true" alt="BookVerse" /></a>
-<a href="https://github.com/Isuru-CodeX/Task-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isuru-CodeX&repo=Task-Tracker&theme=tokyonight&hide_border=true" alt="Task-Tracker" /></a>
-
-</div>
-
-| Project | What it is | Stack |
-|---|---|---|
-| 🖥️ **[PowerRig](https://github.com/Isuru-CodeX/PowerRig)** | PC parts e-commerce with Stripe checkout, wishlist and PDF invoices | `PHP` `MySQL` `Bootstrap` `Stripe` |
-| 📱 **[SmartTrade](https://github.com/Isuru-CodeX/SmartTrade)** | Phone marketplace with seller listings, live search, cart and wishlist | `Java 17` `Jersey` `Hibernate` `MySQL` |
-| 📚 **[BookVerse](https://github.com/Isuru-CodeX/BookVerse)** | Online library portal with MVC, member portal and admin dashboard | `Java EE` `JSP` `JSTL` `MySQL` |
-| ✅ **[Task-Tracker](https://github.com/Isuru-CodeX/Task-Tracker)** | Mobile task manager with a Java REST backend | `React Native` `Expo` `Servlets` `Hibernate` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/Isuru-CodeX/PowerRig">PowerRig</a></h3>
+      <p>PC parts and gaming gear e-commerce with Stripe checkout, wishlist and automated PDF invoices.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+      </p>
+      <img src="https://img.shields.io/github/last-commit/Isuru-CodeX/PowerRig?style=flat-square&label=last%20commit" alt="last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/Isuru-CodeX/SmartTrade">SmartTrade</a></h3>
+      <p>Phone marketplace with seller listings, live search (Ctrl+K), server-side cart and wishlist.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+      <img src="https://img.shields.io/github/last-commit/Isuru-CodeX/SmartTrade?style=flat-square&label=last%20commit" alt="last commit" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/Isuru-CodeX/BookVerse">BookVerse</a></h3>
+      <p>Online library portal built with MVC, Front Controller and DAO patterns, with a member portal and admin dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_EE-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java EE" />
+        <img src="https://img.shields.io/badge/JSP_%2F_JSTL-B45309?style=flat-square&logo=jakartaee&logoColor=white" alt="JSP" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+      <img src="https://img.shields.io/github/last-commit/Isuru-CodeX/BookVerse?style=flat-square&label=last%20commit" alt="last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>✅ <a href="https://github.com/Isuru-CodeX/Task-Tracker">Task-Tracker</a></h3>
+      <p>Cross-platform mobile task manager with a Java Servlets and Hibernate REST backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+      </p>
+      <img src="https://img.shields.io/github/last-commit/Isuru-CodeX/Task-Tracker?style=flat-square&label=last%20commit" alt="last commit" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -87,14 +118,24 @@ const isuru = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Isuru-CodeX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isuru-CodeX&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+<img src="https://img.shields.io/github/followers/Isuru-CodeX?label=Followers&style=for-the-badge&logo=github&color=6366f1" alt="Followers" />
+<img src="https://img.shields.io/badge/Public_Repos-4-8b5cf6?style=for-the-badge&logo=github" alt="Public repos" />
+<img src="https://img.shields.io/badge/Projects-Full--Stack-0ea5e9?style=for-the-badge&logo=rocket&logoColor=white" alt="Full-stack projects" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Isuru-CodeX&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
+
+### 🧬 My projects by main language
+
+```mermaid
+pie showData title Projects by main language
+    "Java" : 2
+    "PHP" : 1
+    "TypeScript" : 1
+```
 
 ---
 
@@ -102,7 +143,9 @@ const isuru = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isuru-CodeX&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
+<img src="https://ghchart.rshah.org/8b5cf6/Isuru-CodeX" width="100%" alt="Contribution chart" />
+
+<sub>Keep the green squares coming 🌱</sub>
 
 </div>
 
@@ -112,9 +155,10 @@ const isuru = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Isuru-CodeX&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+<img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="90" alt="Pull Shark x2" />
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="90" alt="Pair Extraordinaire" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/🦈_Pull_Shark-x2-1f6feb?style=for-the-badge" alt="Pull Shark x2" />
 <img src="https://img.shields.io/badge/🤝_Pair_Extraordinaire-8957e5?style=for-the-badge" alt="Pair Extraordinaire" />
