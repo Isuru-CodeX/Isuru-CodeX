@@ -27,7 +27,7 @@
 ```js
 const isuru = {
   name: "Isuru Rathnayaka",
-  role: "Full-Stack Developer",
+  role: "Full-Stack Software Engineer",
   focus: ["Java EE", "PHP", "React Native", "Hibernate", "MySQL"],
   building: "E-commerce platforms, library systems and mobile apps",
   currentlyImproving: ["Security (BCrypt, JWT)", "Automated testing", "Payments"],
