@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=240&section=header&text=Isuru%20Rathnayaka&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20PHP%20%E2%80%A2%20TypeScript&descAlignY=60&descSize=20" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=240&section=header&text=Isuru%20Rathnayaka&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Software-Engineer%20%E2%80%A2%20Java%20%E2%80%A2%20PHP%20%E2%80%A2%20TypeScript&descAlignY=60&descSize=20" width="100%" alt="header" />
 
 <a href="https://github.com/Isuru-CodeX">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=Hi+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;I+build+full-stack+web+and+mobile+apps;Java+%7C+PHP+%7C+TypeScript+%7C+MySQL;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing animation" />
