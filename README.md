@@ -243,7 +243,7 @@ flowchart LR
 |---|---|
 | LinkedIn | [isuru-rathnayaka-220484288](https://www.linkedin.com/in/isuru-rathnayaka-220484288/) |
 | GitHub | [@Isuru-CodeX](https://github.com/Isuru-CodeX) |
-| Email | `YOUR_EMAIL` |
+| Email | `isururathnayaka999@gmail.com` |
 
 ---
 
