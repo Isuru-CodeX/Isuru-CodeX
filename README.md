@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=240&section=header&text=Isuru%20Rathnayaka&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Python%20%E2%80%A2%20React%20%E2%80%A2%20Java%20%E2%80%A2%20TypeScript&descAlignY=60&descSize=20" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,25:4f46e5,60:7c3aed,100:0ea5e9&height=260&section=header&text=Isuru%20Rathnayaka&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%E2%9C%A8%20Full-Stack%20Software%20Engineer%20%E2%80%A2%20Python%20%E2%80%A2%20FastAPI%20%E2%80%A2%20React%2019%20%E2%80%A2%20TypeScript%20%E2%80%A2%20AI%20Systems&descAlignY=58&descSize=19" width="100%" alt="header" />
 
 <a href="https://github.com/Isuru-CodeX">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=Hi+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;Full-Stack+Software+Engineer+%26+Builder;Python+%7C+FastAPI+%7C+React+%7C+TypeScript;Java+EE+%7C+Hibernate+%7C+PHP+%7C+MySQL;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=780&height=50&lines=Hi+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;Full-Stack+Software+Engineer+%26+AI+Builder;Creator+of+CareerLens+AI+(Autonomous+Career+Co-Pilot);Python+%7C+FastAPI+%7C+React+19+%7C+TypeScript;Java+EE+%7C+Hibernate+%7C+PHP+%7C+MySQL;87+Automated+Tests+Passing+%E2%80%A2+100%25+Verified+%E2%9C%85;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing animation" />
 </a>
 
 <br/><br/>
@@ -75,8 +75,8 @@ const isuru = {
 <table>
   <tr>
     <td colspan="2" width="100%" valign="top">
-      <h3>🎙️ <a href="https://github.com/Isuru-CodeX/CareerLens">CareerLens AI</a> &nbsp;<sub><img src="https://img.shields.io/badge/Featured-Flagship_Project-8b5cf6?style=flat-square" alt="Flagship Project" /></sub></h3>
-      <p>Autonomous AI Career Co-Pilot & ATS Intelligence platform. Features real-time Voice AI mock interview simulation with STAR scoring & live Web Audio VU meter, heuristic resume ATS audit, semantic skill-gap matching, and streaming cover letter studio.</p>
+      <h3>🎙️ <a href="https://github.com/Isuru-CodeX/CareerLens">CareerLens AI</a> &nbsp;<sub><img src="https://img.shields.io/badge/Featured-Enterprise_Major_Project-8b5cf6?style=flat-square" alt="Enterprise Major Project" /></sub></h3>
+      <p>Enterprise-grade Autonomous AI Career Co-Pilot & ATS Intelligence platform. Features real-time Voice AI mock interview simulation with STAR scoring & live Web Audio VU meter, 54-role trajectory comparator with candidate profile baseline, Zero-PII GitHub & LinkedIn skill discovery, dense vector RAG with 4-tier ATS stress-testing (Workday, Greenhouse, Taleo, Lever), and 5-pillar capability matrix.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
         <img src="https://img.shields.io/badge/Python_3.12+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -84,7 +84,8 @@ const isuru = {
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Tailwind_CSS_4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-        <img src="https://img.shields.io/badge/Pytest-46_Passed-10b981?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
+        <img src="https://img.shields.io/badge/Pytest-87_Passed_%E2%9C%85-10b981?style=flat-square&logo=pytest&logoColor=white" alt="Pytest 87 Passed" />
+        <img src="https://img.shields.io/badge/Security-Zero_PII_Policy-0ea5e9?style=flat-square&logo=shield&logoColor=white" alt="Zero PII Policy" />
       </p>
       <img src="https://img.shields.io/github/last-commit/Isuru-CodeX/CareerLens?style=flat-square&label=last%20commit" alt="last commit" />
     </td>
@@ -282,6 +283,6 @@ flowchart LR
 
 *⭐ If you like my projects, drop a star. It really motivates me!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6366f1,100:0ea5e9&height=130&section=footer" width="100%" alt="footer" />
 
 </div>
