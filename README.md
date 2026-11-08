@@ -353,7 +353,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=600&height=36&lines=🤝+Open+to+collaborate+on+interesting+projects!;💡+AI+Systems+%7C+FastAPI+%7C+React+%7C+Java+EE;🚀+Let's+build+something+amazing+together!" alt="Collaboration" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=600&height=36&lines=%F0%9F%A4%9D%20Open%20to%20collaborate%20on%20interesting%20projects!;%F0%9F%92%A1%20AI%20Systems%20%7C%20FastAPI%20%7C%20React%20%7C%20Java%20EE;%F0%9F%9A%80%20Let%27s%20build%20something%20amazing%20together!" alt="Collaboration" />
 
 <br/><br/>
 
@@ -375,7 +375,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&width=500&height=36&lines=Thanks+for+visiting+my+profile!+👋;⭐+Star+a+repo+if+you+find+it+useful!;🤝+Let's+connect+and+build+together!" alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&width=500&height=36&lines=Thanks%20for%20visiting%20my%20profile!%20%F0%9F%91%8B;%E2%AD%90%20Star%20a%20repo%20if%20you%20find%20it%20useful!;%F0%9F%A4%9D%20Let%27s%20connect%20and%20build%20together!" alt="Footer typing" />
 
 <br/>
 
