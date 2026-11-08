@@ -223,15 +223,30 @@ const isuru: Developer = {
 
 <br/><br/>
 
-<!-- Project Language Distribution -->
-### 🧬 Project Language Distribution
+<!-- Codebase Language Distribution -->
+### 🧬 Codebase Language Distribution
+
+<a href="https://github.com/Isuru-CodeX">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=780&height=40&lines=🐍+Python%3A+30.42%25+(1.50+MB)+•+FastAPI+%26+Autonomous+AI+Systems;⚡+TypeScript%3A+29.80%25+(1.47+MB)+•+React+19+%26+Mobile+Apps;🐘+PHP%3A+14.39%25+(710+KB)+•+E-Commerce+%26+Automated+PDF+Invoices;☕+Java%3A+10.41%25+(514+KB)+•+Enterprise+Java+EE%2C+Servlets+%26+Hibernate;🟨+JavaScript%3A+5.50%25+(271+KB)+•+Interactive+Full-Stack+Web;🎨+CSS+%26+HTML%3A+9.18%25+(453+KB)+•+Modern+Responsive+UI" alt="Language Breakdown Ticker" />
+</a>
+
+<br/><br/>
+
+<!-- Custom Animated Language Card -->
+<img src="https://raw.githubusercontent.com/Isuru-CodeX/Isuru-CodeX/main/assets/language-distribution.svg" width="100%" alt="Codebase Language Distribution" />
+
+<br/><br/>
 
 ```mermaid
-pie showData title Projects by Main Language
-    "Python / TypeScript" : 1
-    "Java EE"             : 2
-    "PHP"                 : 1
-    "TypeScript / Java"   : 1
+pie showData title Most Used Languages (% Codebase)
+    "Python" : 30.42
+    "TypeScript" : 29.80
+    "PHP" : 14.39
+    "Java" : 10.41
+    "JavaScript" : 5.50
+    "CSS" : 4.99
+    "HTML" : 4.19
+    "Other" : 0.30
 ```
 
 </div>
