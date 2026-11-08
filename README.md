@@ -43,12 +43,10 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
 ```typescript
 const isuru: Developer = {
-  name:    "Isuru Rathnayaka",
-  role:    "Full-Stack Software Engineer & AI Builder",
+  name:     "Isuru Rathnayaka",
+  role:     "Full-Stack Software Engineer & AI Builder",
   location: "🇱🇰 Sri Lanka",
 
   languages: [
@@ -71,8 +69,6 @@ const isuru: Developer = {
   funFact: "I love turning caffeine ☕ + ideas 💡 into working products 🚀",
 };
 ```
-
-<br clear="right"/>
 
 - 🔭 &nbsp;Currently architecting **[CareerLens AI](https://github.com/Isuru-CodeX/CareerLens)** — enterprise-grade AI career intelligence platform
 - 🎙️ &nbsp;Built a **Real-Time Voice AI Mock Interview Simulator** with STAR scoring & live Web Audio VU meter
@@ -215,28 +211,15 @@ const isuru: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=500&height=36&lines=📊+Live+Stats+from+my+GitHub+Activity..." alt="Stats heading" />
-
-<br/><br/>
-
 <!-- Stats Cards Row -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isuru-CodeX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=6366f1&text_color=e2e8f0&ring_color=7c3aed" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isuru-CodeX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=e2e8f0&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Isuru-CodeX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=6366f1&text_color=e2e8f0&ring_color=7c3aed" alt="GitHub Stats" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Isuru-CodeX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=e2e8f0&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- Streak Stats -->
+<!-- Streak Stats Card -->
 <img src="https://streak-stats.demolab.com?user=Isuru-CodeX&theme=tokyonight&hide_border=true&background=0D1117&ring=8b5cf6&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isuru-CodeX&theme=tokyo-night&bg_color=0D1117&color=8b5cf6&line=6366f1&point=a78bfa&area=true&hide_border=true&custom_title=Isuru's%20Contribution%20Activity%20Graph" width="100%" alt="Activity Graph" />
-
-<br/>
-
-<!-- Profile Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Isuru-CodeX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies" />
 
 <br/><br/>
 
@@ -296,9 +279,9 @@ pie showData title Projects by Main Language
 <br/><br/>
 
 <img src="https://img.shields.io/badge/🦈_Pull_Shark-x2-1f6feb?style=for-the-badge" alt="Pull Shark x2" />
-<img src="https://img.shields.io/badge/🤝_Pair_Extraordinaire-8957e5?style=for-the-badge" alt="Pair Extraordinaire" />
-<img src="https://img.shields.io/badge/⭐_GitHub_Pro-d29922?style=for-the-badge" alt="GitHub Pro" />
-<img src="https://img.shields.io/badge/⚡_Quickdraw-ea580c?style=for-the-badge" alt="Quickdraw" />
+<img src="https://img.shields.io/badge/🤝_Pair_Extraordinaire-8957e5?style=for-the-badge&logoColor=white" alt="Pair Extraordinaire" />
+<img src="https://img.shields.io/badge/⭐_GitHub_Pro-d29922?style=for-the-badge&logoColor=white" alt="GitHub Pro" />
+<img src="https://img.shields.io/badge/⚡_Quickdraw-ea580c?style=for-the-badge&logoColor=white" alt="Quickdraw" />
 
 </div>
 
@@ -386,7 +369,7 @@ flowchart LR
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Open_to-Collaboration-10b981?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaboration" />
-<img src="https://img.shields.io/badge/Interested_in-AI_%7C_FastAPI_%7C_React_%7C_Java_EE-6366f1?style=for-the-badge" alt="Interests" />
+<img src="https://img.shields.io/badge/Interested_in-AI_%7C_FastAPI_%7C_React_%7C_Java_EE-6366f1?style=for-the-badge&logoColor=white" alt="Interests" />
 <img src="https://img.shields.io/badge/Status-Available_for_Opportunities-f59e0b?style=for-the-badge&logo=calendar&logoColor=white" alt="Available" />
 
 </div>
