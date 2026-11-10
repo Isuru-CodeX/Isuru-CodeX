@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+<style>
+text{font-family:'Fira Code',ui-monospace,Menlo,monospace}
+.t{font-size:16px;letter-spacing:1px;font-weight:800}
+.glow{animation:g 4s ease-in-out infinite}
+@keyframes g{50%{opacity:.55}}
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#151833"/><stop offset=".55" stop-color="#0a0b18"/><stop offset="1" stop-color="#05050b"/></linearGradient>
+<radialGradient id="a" cx=".3" cy=".25" r=".7"><stop offset="0" stop-color="#ff5f57" stop-opacity=".45"/><stop offset="1" stop-color="#ff5f57" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx=".85" cy=".9" r=".6"><stop offset="0" stop-color="#ff9f1c" stop-opacity=".5"/><stop offset="1" stop-color="#ff9f1c" stop-opacity="0"/></radialGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5f57"/><stop offset="1" stop-color="#ff9f1c"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".14"/><stop offset=".4" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="neon" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000" flood-opacity=".7"/></filter>
+<clipPath id="clip"><rect width="240" height="240" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="240" height="240" fill="url(#bg)"/>
+<rect width="240" height="240" fill="url(#a)" class="glow"/>
+<rect width="240" height="240" fill="url(#b)"/>
+<!-- Stars -->
+<circle cx="53" cy="37" r="1.0" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="106" cy="74" r="1.4" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="159" cy="111" r="0.6" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="212" cy="148" r="1.0" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="184" cy="146" r="1.4" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="2s" repeatCount="indefinite"/></circle>
+<!-- Shine & sweep -->
+<rect width="240" height="120" fill="url(#shine)"/>
+<rect x="-160" y="0" width="120" height="240" fill="url(#sweep)" transform="skewX(-20)"><animate attributeName="x" values="-200;-200;400" keyTimes="0;.7;1" dur="5s" repeatCount="indefinite"/></rect>
+<rect y="172" width="240" height="68" fill="#000" opacity=".4"/>
+</g>
+<rect x="1" y="1" width="238" height="238" rx="19" fill="none" stroke="url(#edge)" stroke-width="2" stroke-opacity=".9"/>
+<rect x="1" y="1" width="238" height="238" rx="19" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="30 900"><animate attributeName="stroke-dashoffset" from="0" to="-930" dur="5s" repeatCount="indefinite"/></rect>
+<!-- Graphic: Security Radar + Shield + Lock -->
+<g transform="translate(40,20)" filter="url(#neon)">
+  <g transform="translate(80,68)">
+    <!-- Radar concentric rings -->
+    <circle r="18" fill="none" stroke="#ff5f57" stroke-opacity=".3"/>
+    <circle r="36" fill="none" stroke="#ff5f57" stroke-opacity=".3"/>
+    <circle r="54" fill="none" stroke="#ff5f57" stroke-opacity=".3"/>
+    <!-- Radar crosshairs -->
+    <line x1="-54" x2="54" stroke="#ff5f57" stroke-opacity=".2"/>
+    <line y1="-54" y2="54" stroke="#ff5f57" stroke-opacity=".2"/>
+    <!-- Rotating Scanner Beam -->
+    <path d="M0 0 L54 0 A54 54 0 0 0 38 -38 Z" fill="#ff5f57" fill-opacity=".35">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <!-- Blinking Detected Targets -->
+    <circle cx="25" cy="-25" r="3.5" fill="#28c840"><animate attributeName="opacity" values="0;1;0;0" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="-30" cy="18" r="3.5" fill="#ffd166"><animate attributeName="opacity" values="0;0;1;0" dur="3s" repeatCount="indefinite"/></circle>
+    <!-- Center Shield & Lock Icon -->
+    <path d="M-15 -18 L15 -18 L15 2 C15 15 0 24 0 24 C0 24 -15 15 -15 2 Z" fill="#0b0e1c" stroke="#ff9f1c" stroke-width="2"/>
+    <!-- Keyhole / Padlock center -->
+    <circle cx="0" cy="-2" r="3" fill="#ff9f1c"/>
+    <rect x="-1.5" y="-1" width="3" height="6" fill="#ff9f1c"/>
+  </g>
+</g>
+<text x="120" y="210" text-anchor="middle" class="t" fill="url(#edge)" filter="url(#soft)">SECURITY &amp; AUTH</text>
+</svg>

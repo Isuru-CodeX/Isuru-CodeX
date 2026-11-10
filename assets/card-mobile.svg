@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+<style>
+text{font-family:'Fira Code',ui-monospace,Menlo,monospace}
+.t{font-size:16px;letter-spacing:1px;font-weight:800}
+.glow{animation:g 4s ease-in-out infinite}
+@keyframes g{50%{opacity:.55}}
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#151833"/><stop offset=".55" stop-color="#0a0b18"/><stop offset="1" stop-color="#05050b"/></linearGradient>
+<radialGradient id="a" cx=".3" cy=".25" r=".7"><stop offset="0" stop-color="#3dff9a" stop-opacity=".45"/><stop offset="1" stop-color="#3dff9a" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx=".85" cy=".9" r=".6"><stop offset="0" stop-color="#00b4d8" stop-opacity=".5"/><stop offset="1" stop-color="#00b4d8" stop-opacity="0"/></radialGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3dff9a"/><stop offset="1" stop-color="#00b4d8"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".14"/><stop offset=".4" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="neon" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000" flood-opacity=".7"/></filter>
+<clipPath id="clip"><rect width="240" height="240" rx="20"/></clipPath>
+<clipPath id="phone-screen"><rect x="42" y="16" width="76" height="116" rx="10"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="240" height="240" fill="url(#bg)"/>
+<rect width="240" height="240" fill="url(#a)" class="glow"/>
+<rect width="240" height="240" fill="url(#b)"/>
+<!-- Stars -->
+<circle cx="53" cy="37" r="1.0" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="106" cy="74" r="1.4" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="159" cy="111" r="0.6" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="212" cy="148" r="1.0" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="184" cy="146" r="1.4" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="2s" repeatCount="indefinite"/></circle>
+<!-- Shine & sweep -->
+<rect width="240" height="120" fill="url(#shine)"/>
+<rect x="-160" y="0" width="120" height="240" fill="url(#sweep)" transform="skewX(-20)"><animate attributeName="x" values="-200;-200;400" keyTimes="0;.7;1" dur="5s" repeatCount="indefinite"/></rect>
+<rect y="172" width="240" height="68" fill="#000" opacity=".4"/>
+</g>
+<rect x="1" y="1" width="238" height="238" rx="19" fill="none" stroke="url(#edge)" stroke-width="2" stroke-opacity=".9"/>
+<rect x="1" y="1" width="238" height="238" rx="19" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="30 900"><animate attributeName="stroke-dashoffset" from="0" to="-930" dur="5s" repeatCount="indefinite"/></rect>
+<!-- Graphic: Smartphone with React Native / Expo Tasks -->
+<g transform="translate(40,16)" filter="url(#neon)">
+  <!-- Outer Phone Body -->
+  <rect x="40" y="4" width="80" height="140" rx="16" fill="#0b0e1c" stroke="#3dff9a" stroke-width="2"/>
+  <!-- Dynamic Island Notch -->
+  <rect x="66" y="10" width="28" height="6" rx="3" fill="#3dff9a" fill-opacity=".6"/>
+  <!-- Screen clipping area -->
+  <g clip-path="url(#phone-screen)">
+    <!-- Scrolling Feed Tasks -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 -42;0 -42;0 0" dur="5s" repeatCount="indefinite"/>
+      <rect x="48" y="24" width="64" height="28" rx="6" fill="#3dff9a" fill-opacity=".25"/>
+      <rect x="54" y="32" width="30" height="4" rx="2" fill="#3dff9a"/>
+      <circle cx="102" cy="38" r="4" fill="#3dff9a" fill-opacity=".7"/>
+
+      <rect x="48" y="58" width="64" height="28" rx="6" fill="#00b4d8" fill-opacity=".35"/>
+      <rect x="54" y="66" width="36" height="4" rx="2" fill="#00b4d8"/>
+      <circle cx="102" cy="72" r="4" fill="#00b4d8" fill-opacity=".7"/>
+
+      <rect x="48" y="92" width="64" height="28" rx="6" fill="#3dff9a" fill-opacity=".25"/>
+      <rect x="54" y="100" width="26" height="4" rx="2" fill="#3dff9a"/>
+      <circle cx="102" cy="106" r="4" fill="#3dff9a" fill-opacity=".7"/>
+
+      <rect x="48" y="126" width="64" height="28" rx="6" fill="#00b4d8" fill-opacity=".35"/>
+    </g>
+  </g>
+  <!-- Home Indicator Bar -->
+  <rect x="66" y="136" width="28" height="3" rx="1.5" fill="#fff" fill-opacity=".6"/>
+  <!-- Tap ripple circle -->
+  <circle cx="80" cy="78" r="6" fill="#fff" fill-opacity=".5"><animate attributeName="cy" values="95;55;95" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite"/></circle>
+</g>
+<text x="120" y="210" text-anchor="middle" class="t" fill="url(#edge)" filter="url(#soft)">MOBILE APPS</text>
+</svg>

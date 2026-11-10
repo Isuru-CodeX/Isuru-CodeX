@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 460" width="860" height="460">
+<style>
+text{font-family:'Fira Code',ui-monospace,Menlo,monospace;font-size:13px;font-weight:700}
+</style>
+<defs>
+<radialGradient id="core"><stop offset="0" stop-color="#00d4ff"/><stop offset=".45" stop-color="#7c3aed"/><stop offset="1" stop-color="#ff4fd8" stop-opacity="0"/></radialGradient>
+<radialGradient id="neb1" cx=".3" cy=".35" r=".5"><stop offset="0" stop-color="#7c3aed" stop-opacity=".4"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+<radialGradient id="neb2" cx=".75" cy=".6" r=".55"><stop offset="0" stop-color="#00d4ff" stop-opacity=".35"/><stop offset="1" stop-color="#00d4ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="neb3" cx=".5" cy=".85" r=".45"><stop offset="0" stop-color="#ff4fd8" stop-opacity=".3"/><stop offset="1" stop-color="#ff4fd8" stop-opacity="0"/></radialGradient>
+<linearGradient id="ring" x1="0" x2="1"><stop offset="0" stop-color="#00d4ff"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#ff4fd8"/></linearGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="big"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+
+<!-- Deep Space Background & Nebulae -->
+<rect width="860" height="460" rx="20" fill="#05050d"/>
+<rect width="860" height="460" rx="20" fill="url(#neb1)"/>
+<rect width="860" height="460" rx="20" fill="url(#neb2)"/>
+<rect width="860" height="460" rx="20" fill="url(#neb3)"/>
+
+<!-- Twinkling Starfield -->
+<circle cx="331" cy="77" r="0.8" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="4.0s" repeatCount="indefinite"/></circle>
+<circle cx="548" cy="48" r="0.8" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="3.7s" repeatCount="indefinite"/></circle>
+<circle cx="219" cy="19" r="0.5" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="3.3s" repeatCount="indefinite"/></circle>
+<circle cx="92" cy="282" r="0.8" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="228" cy="322" r="1.2" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="3.7s" repeatCount="indefinite"/></circle>
+<circle cx="599" cy="203" r="0.5" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="4.9s" repeatCount="indefinite"/></circle>
+<circle cx="136" cy="148" r="0.8" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="654" cy="96" r="0.8" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="2.3s" repeatCount="indefinite"/></circle>
+<circle cx="577" cy="30" r="1.2" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="437" cy="397" r="0.8" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="3.4s" repeatCount="indefinite"/></circle>
+<circle cx="249" cy="41" r="1.2" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="571" cy="293" r="0.8" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="718" cy="158" r="1.2" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="3.7s" repeatCount="indefinite"/></circle>
+
+<!-- ================= ORBIT 1 (INNER ORBIT: r=115) ================= -->
+<circle cx="430" cy="230" r="115" fill="none" stroke="url(#ring)" stroke-opacity=".35" stroke-width="1.2" stroke-dasharray="4 6"/>
+<g>
+  <!-- Clockwise Orbit Rotation: 30s -->
+  <animateTransform attributeName="transform" type="rotate" from="0 430 230" to="360 430 230" dur="30s" repeatCount="indefinite"/>
+
+  <!-- Inner Satellite 1: AI & VOICE (at angle 0 -> x=545, y=230) -->
+  <g transform="translate(545,230)">
+    <animateTransform attributeName="transform" type="rotate" additive="sum" from="0" to="-360" dur="30s" repeatCount="indefinite"/>
+    <rect x="-56" y="-15" width="112" height="30" rx="15" fill="#0b0b1e" fill-opacity=".9" filter="url(#glow)" stroke="#00d4ff" stroke-width="1.5"/>
+    <circle cx="-42" cy="0" r="4" fill="#00d4ff"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text x="7" y="5" text-anchor="middle" fill="#00d4ff">AI &amp; VOICE</text>
+  </g>
+
+  <!-- Inner Satellite 2: WEB APPS (at angle 90 -> x=430, y=345) -->
+  <g transform="translate(430,345)">
+    <animateTransform attributeName="transform" type="rotate" additive="sum" from="0" to="-360" dur="30s" repeatCount="indefinite"/>
+    <rect x="-48" y="-15" width="96" height="30" rx="15" fill="#0b0b1e" fill-opacity=".9" filter="url(#glow)" stroke="#7c3aed" stroke-width="1.5"/>
+    <circle cx="-35" cy="0" r="4" fill="#7c3aed"><animate attributeName="opacity" values="1;.2;1" dur="2.1s" repeatCount="indefinite"/></circle>
+    <text x="6" y="5" text-anchor="middle" fill="#7c3aed">WEB APPS</text>
+  </g>
+
+  <!-- Inner Satellite 3: MOBILE APPS (at angle 180 -> x=315, y=230) -->
+  <g transform="translate(315,230)">
+    <animateTransform attributeName="transform" type="rotate" additive="sum" from="0" to="-360" dur="30s" repeatCount="indefinite"/>
+    <rect x="-54" y="-15" width="108" height="30" rx="15" fill="#0b0b1e" fill-opacity=".9" filter="url(#glow)" stroke="#3dff9a" stroke-width="1.5"/>
+    <circle cx="-40" cy="0" r="4" fill="#3dff9a"><animate attributeName="opacity" values="1;.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <text x="7" y="5" text-anchor="middle" fill="#3dff9a">MOBILE APPS</text>
+  </g>
+
+  <!-- Inner Satellite 4: FASTAPI & APIs (at angle 270 -> x=430, y=115) -->
+  <g transform="translate(430,115)">
+    <animateTransform attributeName="transform" type="rotate" additive="sum" from="0" to="-360" dur="30s" repeatCount="indefinite"/>
+    <rect x="-56" y="-15" width="112" height="30" rx="15" fill="#0b0b1e" fill-opacity=".9" filter="url(#glow)" stroke="#ff8a3d" stroke-width="1.5"/>
+    <circle cx="-42" cy="0" r="4" fill="#ff8a3d"><animate attributeName="opacity" values="1;.2;1" dur="2.7s" repeatCount="indefinite"/></circle>
+    <text x="7" y="5" text-anchor="middle" fill="#ff8a3d">FASTAPI / APIs</text>
+  </g>
+</g>
+
+<!-- ================= ORBIT 2 (OUTER ORBIT: r=205) ================= -->
+<circle cx="430" cy="230" r="205" fill="none" stroke="url(#ring)" stroke-opacity=".4" stroke-width="1.5" stroke-dasharray="3 7"/>
+<g>
+  <!-- Counter-Clockwise Orbit Rotation: 48s -->
+  <animateTransform attributeName="transform" type="rotate" from="0 430 230" to="-360 430 230" dur="48s" repeatCount="indefinite"/>
+
+  <!-- Outer Satellite 1: REACT 19 (at angle 30) -->
+  <g transform="translate(607.5,332.5)">
+    <animateTransform attributeName="transform" type="rotate" additive="sum" from="0" to="360" dur="48s" repeatCount="indefinite"/>
+    <rect x="-48" y="-15" width="96" height="30" rx="15" fill="#0b0b1e" fill-opacity=".9" filter="url(#glow)" stroke="#61dafb" stroke-width="1.5"/>
+    <circle cx="-35" cy="0" r="4" fill="#61dafb"><animate attributeName="opacity" values="1;.2;1" dur="1.5s" repeatCount="indefinite"/></circle>
+    <text x="6" y="5" text-anchor="middle" fill="#61dafb">REACT 19</text>
+  </g>
+
+  <!-- Outer Satellite 2: E-COMMERCE (at angle 90) -->
+  <g transform="translate(430,435)">
+    <animateTransform attributeName="transform" type="rotate" additive="sum" from="0" to="360" dur="48s" repeatCount="indefinite"/>
+    <rect x="-56" y="-15" width="112" height="30" rx="15" fill="#0b0b1e" fill-opacity=".9" filter="url(#glow)" stroke="#ffd166" stroke-width="1.5"/>
+    <circle cx="-42" cy="0" r="4" fill="#ffd166"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text x="7" y="5" text-anchor="middle" fill="#ffd166">E-COMMERCE</text>
+  </g>
+
+  <!-- Outer Satellite 3: JAVA EE (at angle 150) -->
+  <g transform="translate(252.5,332.5)">
+    <animateTransform attributeName="transform" type="rotate" additive="sum" from="0" to="360" dur="48s" repeatCount="indefinite"/>
+    <rect x="-48" y="-15" width="96" height="30" rx="15" fill="#0b0b1e" fill-opacity=".9" filter="url(#glow)" stroke="#ed8b00" stroke-width="1.5"/>
+    <circle cx="-35" cy="0" r="4" fill="#ed8b00"><animate attributeName="opacity" values="1;.2;1" dur="2.1s" repeatCount="indefinite"/></circle>
+    <text x="6" y="5" text-anchor="middle" fill="#ed8b00">JAVA EE</text>
+  </g>
+
+  <!-- Outer Satellite 4: DATABASES (at angle 210) -->
+  <g transform="translate(252.5,127.5)">
+    <animateTransform attributeName="transform" type="rotate" additive="sum" from="0" to="360" dur="48s" repeatCount="indefinite"/>
+    <rect x="-52" y="-15" width="104" height="30" rx="15" fill="#0b0b1e" fill-opacity=".9" filter="url(#glow)" stroke="#00d4ff" stroke-width="1.5"/>
+    <circle cx="-38" cy="0" r="4" fill="#00d4ff"><animate attributeName="opacity" values="1;.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <text x="7" y="5" text-anchor="middle" fill="#00d4ff">DATABASES</text>
+  </g>
+
+  <!-- Outer Satellite 5: SECURITY (at angle 270) -->
+  <g transform="translate(430,25)">
+    <animateTransform attributeName="transform" type="rotate" additive="sum" from="0" to="360" dur="48s" repeatCount="indefinite"/>
+    <rect x="-52" y="-15" width="104" height="30" rx="15" fill="#0b0b1e" fill-opacity=".9" filter="url(#glow)" stroke="#ff5f57" stroke-width="1.5"/>
+    <circle cx="-38" cy="0" r="4" fill="#ff5f57"><animate attributeName="opacity" values="1;.2;1" dur="2.7s" repeatCount="indefinite"/></circle>
+    <text x="7" y="5" text-anchor="middle" fill="#ff5f57">SECURITY</text>
+  </g>
+
+  <!-- Outer Satellite 6: PYTEST (at angle 330) -->
+  <g transform="translate(607.5,127.5)">
+    <animateTransform attributeName="transform" type="rotate" additive="sum" from="0" to="360" dur="48s" repeatCount="indefinite"/>
+    <rect x="-52" y="-15" width="104" height="30" rx="15" fill="#0b0b1e" fill-opacity=".9" filter="url(#glow)" stroke="#10b981" stroke-width="1.5"/>
+    <circle cx="-38" cy="0" r="4" fill="#10b981"><animate attributeName="opacity" values="1;.2;1" dur="3.0s" repeatCount="indefinite"/></circle>
+    <text x="7" y="5" text-anchor="middle" fill="#10b981">PYTEST QA</text>
+  </g>
+</g>
+
+<!-- ================= CENTRAL PULSATING CORE ================= -->
+<circle cx="430" cy="230" r="85" fill="#7c3aed" opacity=".45" filter="url(#big)"/>
+<circle cx="430" cy="230" r="54" fill="url(#core)" filter="url(#glow)">
+  <animate attributeName="r" values="48;58;48" dur="3s" repeatCount="indefinite"/>
+</circle>
+<text x="430" y="226" text-anchor="middle" fill="#fff" style="font-size:16px;font-weight:800;letter-spacing:1px">ISURU.CORE</text>
+<text x="430" y="244" text-anchor="middle" fill="#00d4ff" style="font-size:10px;font-weight:600;letter-spacing:1px">FULL-STACK · AI</text>
+</svg>

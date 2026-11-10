@@ -43,6 +43,12 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
+
+<img src="assets/orbit.svg" width="100%" alt="Everything I build orbits one core: ISURU.CORE" />
+
+</div>
+
 ```typescript
 const isuru: Developer = {
   name:     "Isuru Rathnayaka",
@@ -70,11 +76,32 @@ const isuru: Developer = {
 };
 ```
 
+```diff
++ ai & voice co-pilots · web applications · mobile apps
++ rest apis · stripe e-commerce · database systems
++ zero-pii security · automated testing · devops & docker
+- "it can't be done"
+```
+
 - 🔭 &nbsp;Currently architecting **[CareerLens AI](https://github.com/Isuru-CodeX/CareerLens)** — enterprise-grade AI career intelligence platform
 - 🎙️ &nbsp;Built a **Real-Time Voice AI Mock Interview Simulator** with STAR scoring & live Web Audio VU meter
 - 🌱 &nbsp;Diving deep into **distributed systems, Docker, and production-grade CI/CD pipelines**
 - 🏆 &nbsp;Shipped **5 full-stack / AI projects** across Python, Java EE, PHP, and React Native
 - 📫 &nbsp;Reach me on **[LinkedIn](https://www.linkedin.com/in/isuru-rathnayaka-220484288/)** or **isururathnayaka999@gmail.com**
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🌌 Core Engineering Ecosystem
+
+<div align="center">
+
+<p><i>Interactive surface matrix — everything I architect orbits real-time AI, performance, and clean code.</i></p>
+
+<img src="assets/card-ai.svg" width="19%" alt="AI and Voice"/> <img src="assets/card-web.svg" width="19%" alt="Web Apps"/> <img src="assets/card-mobile.svg" width="19%" alt="Mobile Apps"/> <img src="assets/card-api.svg" width="19%" alt="APIs and Backends"/> <img src="assets/card-ecommerce.svg" width="19%" alt="E-Commerce and Pay"/> 
+<img src="assets/card-db.svg" width="19%" alt="Database Systems"/> <img src="assets/card-security.svg" width="19%" alt="Security and Zero PII"/> <img src="assets/card-testing.svg" width="19%" alt="Testing and QA"/> <img src="assets/card-devops.svg" width="19%" alt="DevOps and Docker"/> <img src="assets/card-enterprise.svg" width="19%" alt="Enterprise Java EE"/>
+
+</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />

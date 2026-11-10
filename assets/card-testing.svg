@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+<style>
+text{font-family:'Fira Code',ui-monospace,Menlo,monospace}
+.t{font-size:16px;letter-spacing:1px;font-weight:800}
+.glow{animation:g 4s ease-in-out infinite}
+@keyframes g{50%{opacity:.55}}
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#151833"/><stop offset=".55" stop-color="#0a0b18"/><stop offset="1" stop-color="#05050b"/></linearGradient>
+<radialGradient id="a" cx=".3" cy=".25" r=".7"><stop offset="0" stop-color="#10b981" stop-opacity=".45"/><stop offset="1" stop-color="#10b981" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx=".85" cy=".9" r=".6"><stop offset="0" stop-color="#34d399" stop-opacity=".5"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10b981"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".14"/><stop offset=".4" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="neon" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000" flood-opacity=".7"/></filter>
+<clipPath id="clip"><rect width="240" height="240" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="240" height="240" fill="url(#bg)"/>
+<rect width="240" height="240" fill="url(#a)" class="glow"/>
+<rect width="240" height="240" fill="url(#b)"/>
+<!-- Stars -->
+<circle cx="53" cy="37" r="1.0" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="106" cy="74" r="1.4" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="159" cy="111" r="0.6" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="212" cy="148" r="1.0" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="184" cy="146" r="1.4" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="2s" repeatCount="indefinite"/></circle>
+<!-- Shine & sweep -->
+<rect width="240" height="120" fill="url(#shine)"/>
+<rect x="-160" y="0" width="120" height="240" fill="url(#sweep)" transform="skewX(-20)"><animate attributeName="x" values="-200;-200;400" keyTimes="0;.7;1" dur="5s" repeatCount="indefinite"/></rect>
+<rect y="172" width="240" height="68" fill="#000" opacity=".4"/>
+</g>
+<rect x="1" y="1" width="238" height="238" rx="19" fill="none" stroke="url(#edge)" stroke-width="2" stroke-opacity=".9"/>
+<rect x="1" y="1" width="238" height="238" rx="19" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="30 900"><animate attributeName="stroke-dashoffset" from="0" to="-930" dur="5s" repeatCount="indefinite"/></rect>
+<!-- Graphic: Pytest Test Suite Terminal & 87 Passed -->
+<g transform="translate(42,20)" filter="url(#neon)">
+  <!-- Terminal window -->
+  <rect width="156" height="122" rx="10" fill="#0b0e1c" stroke="#10b981" stroke-width="1.5"/>
+  <rect width="156" height="20" rx="10" fill="#10b981" fill-opacity=".2"/>
+  <circle cx="12" cy="10" r="3.5" fill="#ff5f57"/>
+  <circle cx="24" cy="10" r="3.5" fill="#febc2e"/>
+  <circle cx="36" cy="10" r="3.5" fill="#28c840"/>
+  <text x="80" y="13" text-anchor="middle" fill="#10b981" style="font-size:8px;font-weight:700">pytest · 87 tests</text>
+
+  <!-- Test lines with animated checkmarks -->
+  <g transform="translate(12, 34)">
+    <text x="0" y="10" fill="#10b981" style="font-size:9px;font-weight:700">✓</text>
+    <text x="14" y="10" fill="#e2e8f0" style="font-size:8px">test_voice_star_eval</text>
+    <text x="120" y="10" fill="#10b981" style="font-size:8px">PASSED</text>
+  </g>
+  <g transform="translate(12, 52)">
+    <text x="0" y="10" fill="#10b981" style="font-size:9px;font-weight:700">✓</text>
+    <text x="14" y="10" fill="#e2e8f0" style="font-size:8px">test_ats_heuristic</text>
+    <text x="120" y="10" fill="#10b981" style="font-size:8px">PASSED</text>
+  </g>
+  <g transform="translate(12, 70)">
+    <text x="0" y="10" fill="#10b981" style="font-size:9px;font-weight:700">✓</text>
+    <text x="14" y="10" fill="#e2e8f0" style="font-size:8px">test_stripe_checkout</text>
+    <text x="120" y="10" fill="#10b981" style="font-size:8px">PASSED</text>
+  </g>
+
+  <!-- Animated Green Progress Bar -->
+  <rect x="12" y="94" width="132" height="12" rx="6" fill="#15232d"/>
+  <rect x="12" y="94" width="132" height="12" rx="6" fill="#10b981">
+    <animate attributeName="width" values="0;132;132;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="78" y="103" text-anchor="middle" fill="#000" style="font-size:8px;font-weight:800">87 / 87 PASSED (100%)</text>
+</g>
+<text x="120" y="210" text-anchor="middle" class="t" fill="url(#edge)" filter="url(#soft)">TESTING &amp; QA</text>
+</svg>

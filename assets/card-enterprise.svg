@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+<style>
+text{font-family:'Fira Code',ui-monospace,Menlo,monospace}
+.t{font-size:16px;letter-spacing:1px;font-weight:800}
+.glow{animation:g 4s ease-in-out infinite}
+@keyframes g{50%{opacity:.55}}
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#151833"/><stop offset=".55" stop-color="#0a0b18"/><stop offset="1" stop-color="#05050b"/></linearGradient>
+<radialGradient id="a" cx=".3" cy=".25" r=".7"><stop offset="0" stop-color="#ed8b00" stop-opacity=".45"/><stop offset="1" stop-color="#ed8b00" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx=".85" cy=".9" r=".6"><stop offset="0" stop-color="#f97316" stop-opacity=".55"/><stop offset="1" stop-color="#f97316" stop-opacity="0"/></radialGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ed8b00"/><stop offset="1" stop-color="#f97316"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".14"/><stop offset=".4" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="neon" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000" flood-opacity=".7"/></filter>
+<clipPath id="clip"><rect width="240" height="240" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="240" height="240" fill="url(#bg)"/>
+<rect width="240" height="240" fill="url(#a)" class="glow"/>
+<rect width="240" height="240" fill="url(#b)"/>
+<!-- Stars -->
+<circle cx="53" cy="37" r="1.0" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="106" cy="74" r="1.4" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="159" cy="111" r="0.6" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="212" cy="148" r="1.0" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="184" cy="146" r="1.4" fill="#fff" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="2s" repeatCount="indefinite"/></circle>
+<!-- Shine & sweep -->
+<rect width="240" height="120" fill="url(#shine)"/>
+<rect x="-160" y="0" width="120" height="240" fill="url(#sweep)" transform="skewX(-20)"><animate attributeName="x" values="-200;-200;400" keyTimes="0;.7;1" dur="5s" repeatCount="indefinite"/></rect>
+<rect y="172" width="240" height="68" fill="#000" opacity=".4"/>
+</g>
+<rect x="1" y="1" width="238" height="238" rx="19" fill="none" stroke="url(#edge)" stroke-width="2" stroke-opacity=".9"/>
+<rect x="1" y="1" width="238" height="238" rx="19" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="30 900"><animate attributeName="stroke-dashoffset" from="0" to="-930" dur="5s" repeatCount="indefinite"/></rect>
+<!-- Graphic: Enterprise Java EE Layered Architecture (MVC · DAO · ORM) -->
+<g transform="translate(45,18)" filter="url(#neon)">
+  <!-- Java Cup with Animated Steam -->
+  <g transform="translate(55,10)">
+    <!-- Rising Steam Path 1 -->
+    <path d="M12 0 C8 -8 16 -16 12 -24" fill="none" stroke="#ed8b00" stroke-width="2" stroke-opacity=".7">
+      <animate attributeName="d" values="M12 0 C8 -8 16 -16 12 -24; M12 0 C16 -8 8 -16 12 -24; M12 0 C8 -8 16 -16 12 -24" dur="2.5s" repeatCount="indefinite"/>
+    </path>
+    <!-- Rising Steam Path 2 -->
+    <path d="M24 0 C28 -8 20 -16 24 -24" fill="none" stroke="#f97316" stroke-width="2" stroke-opacity=".7">
+      <animate attributeName="d" values="M24 0 C28 -8 20 -16 24 -24; M24 0 C20 -8 28 -16 24 -24; M24 0 C28 -8 20 -16 24 -24" dur="2.2s" begin=".4s" repeatCount="indefinite"/>
+    </path>
+    <!-- Cup Body -->
+    <path d="M4 4 h32 v18 c0 10 -6 18 -16 18 s-16 -8 -16 -18 Z" fill="#0b0e1c" stroke="#ed8b00" stroke-width="2"/>
+    <path d="M36 10 h6 c4 0 6 3 6 7 s-2 7 -6 7 h-6" fill="none" stroke="#ed8b00" stroke-width="2"/>
+  </g>
+
+  <!-- Architectural Layers: Controller -> Service -> DAO -->
+  <g transform="translate(10, 58)">
+    <rect x="0" y="0" width="130" height="18" rx="4" fill="#0b0e1c" stroke="#ed8b00" stroke-width="1.5"/>
+    <text x="65" y="12" text-anchor="middle" fill="#ed8b00" style="font-size:8px;font-weight:700">SERVLET CONTROLLER</text>
+
+    <line x1="65" y1="18" x2="65" y2="28" stroke="#f97316" stroke-width="2"/>
+
+    <rect x="0" y="28" width="130" height="18" rx="4" fill="#0b0e1c" stroke="#f97316" stroke-width="1.5"/>
+    <text x="65" y="40" text-anchor="middle" fill="#f97316" style="font-size:8px;font-weight:700">SERVICE &amp; BUSINESS LOGIC</text>
+
+    <line x1="65" y1="46" x2="65" y2="56" stroke="#ed8b00" stroke-width="2"/>
+
+    <rect x="0" y="56" width="130" height="18" rx="4" fill="#0b0e1c" stroke="#ed8b00" stroke-width="1.5"/>
+    <text x="65" y="68" text-anchor="middle" fill="#ed8b00" style="font-size:8px;font-weight:700">HIBERNATE / DAO LAYER</text>
+  </g>
+</g>
+<text x="120" y="210" text-anchor="middle" class="t" fill="url(#edge)" filter="url(#soft)">ENTERPRISE JAVA</text>
+</svg>
