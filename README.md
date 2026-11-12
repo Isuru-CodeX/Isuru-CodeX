@@ -318,16 +318,16 @@ const isuru: Developer = {
 ## 📦 Repository Directory
 
 <!--START_SECTION:repos-->
-| 📦 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🕒 Last Push |
-|---|---|---|:---:|---|
-| [**CareerLens**](https://github.com/Isuru-CodeX/CareerLens) | 🤖 Autonomous AI Career Co-Pilot & ATS Intelligence with Voice AI mock interviews | Python / TypeScript | 0 | - |
-| [**Nexora**](https://github.com/Isuru-CodeX/Nexora) | 💼 Open-source enterprise CRM with modular architecture, pipelines & Pest tests | PHP / Vue.js | 0 | - |
-| [**CodePilot_AI**](https://github.com/Isuru-CodeX/CodePilot_AI) | 🎙️ Stealth interview assistant with invisible overlay, OCR & Gemini multimodal | TypeScript / Electron | 0 | - |
-| [**SmartTrade**](https://github.com/Isuru-CodeX/SmartTrade) | 📱 Java & Hibernate phone marketplace with Stripe checkout & admin panel | Java | 0 | - |
-| [**PowerRig**](https://github.com/Isuru-CodeX/PowerRig) | 🖥️ PHP e-commerce platform with Stripe, wishlist & PDF invoices | PHP | 0 | - |
-| [**BookVerse**](https://github.com/Isuru-CodeX/BookVerse) | 📚 Java EE digital library with MVC & DAO patterns, loan & admin systems | Java | 0 | - |
-| [**Task-Tracker**](https://github.com/Isuru-CodeX/Task-Tracker) | ✅ React Native + Expo mobile task manager with Java Hibernate REST backend | TypeScript | 0 | - |
-| [**Isuru-CodeX**](https://github.com/Isuru-CodeX/Isuru-CodeX) | 🚀 Dynamic GitHub profile README repository with CI/CD automation | Markdown | 0 | - |
+| 📦 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🕒 Last Contribution |
+|---|---|---|:---:|:---:|
+| [**Nexora**](https://github.com/Isuru-CodeX/Nexora) | 💼 Open-source enterprise CRM with modular architecture, pipelines & Pest tests | PHP / Vue.js | 1 | Nov 13, 2026 |
+| [**CareerLens**](https://github.com/Isuru-CodeX/CareerLens) | 🤖 Autonomous AI Career Co-Pilot & ATS Intelligence with Voice AI mock interviews | Python / TypeScript | 1 | Nov 09, 2026 |
+| [**CodePilot_AI**](https://github.com/Isuru-CodeX/CodePilot_AI) | 🎙️ Stealth interview assistant with invisible overlay, OCR & Gemini multimodal | TypeScript / Electron | 0 | Nov 11, 2026 |
+| [**BookVerse**](https://github.com/Isuru-CodeX/BookVerse) | 📚 Java EE digital library with MVC & DAO patterns, loan & admin systems | Java | 0 | Nov 10, 2026 |
+| [**SmartTrade**](https://github.com/Isuru-CodeX/SmartTrade) | 📱 Java & Hibernate phone marketplace with Stripe checkout & admin panel | Java | 0 | Nov 05, 2026 |
+| [**PowerRig**](https://github.com/Isuru-CodeX/PowerRig) | 🖥️ PHP e-commerce platform with Stripe, wishlist & PDF invoices | PHP | 0 | Nov 05, 2026 |
+| [**Task-Tracker**](https://github.com/Isuru-CodeX/Task-Tracker) | ✅ React Native + Expo mobile task manager with Java Hibernate REST backend | TypeScript | 0 | Nov 05, 2026 |
+| [**Isuru-CodeX**](https://github.com/Isuru-CodeX/Isuru-CodeX) | 🚀 Dynamic GitHub profile README repository with CI/CD automation | Markdown | 0 | Nov 13, 2026 |
 <!--END_SECTION:repos-->
 
 <!-- Animated Divider -->
