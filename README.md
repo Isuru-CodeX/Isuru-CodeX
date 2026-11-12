@@ -5,20 +5,20 @@
 
 <!-- Animated Greeting -->
 <a href="https://github.com/Isuru-CodeX">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=820&height=56&lines=%F0%9F%91%8B+Hi%2C+I%27m+Isuru+%E2%80%94+Welcome+to+my+GitHub!;%F0%9F%A4%96+Building+AI+Career+Co-Pilots+%26+Intelligent+Systems;%F0%9F%94%A5+Python+%7C+FastAPI+%7C+React+19+%7C+TypeScript+%7C+Java+EE;%F0%9F%8E%99%EF%B8%8F+Real-Time+Voice+AI+%7C+ATS+Intelligence+%7C+NLP;%E2%9C%85+87+Automated+Tests+Passing+%E2%80%A2+Enterprise-Grade+Code;%F0%9F%9A%80+Always+learning%2C+always+building%2C+always+shipping!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=820&height=56&lines=%F0%9F%91%8B+Hi%2C+I%27m+Isuru+%E2%80%94+Welcome+to+my+GitHub!;%F0%9F%A4%96+Building+AI+Career+Co-Pilots+%26+Enterprise+CRM;%F0%9F%94%A5+Python+%7C+FastAPI+%7C+Laravel+12+%7C+React+19+%7C+Java+EE;%F0%9F%8E%99%EF%B8%8F+Real-Time+Voice+AI+%7C+ATS+Intel+%7C+Stealth+AI+Assist;%E2%9C%85+Automated+Testing+(Pytest+%26+Pest)+%E2%80%A2+Clean+Architecture;%F0%9F%9A%80+Always+learning%2C+always+building%2C+always+shipping!" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Animated Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=14&duration=4000&pause=2000&color=6366F1&center=true&vCenter=true&width=600&height=30&lines=%E2%97%A4+FULL-STACK+%7C+AI+%7C+VOICE+SYSTEMS+%7C+OPEN+SOURCE+%E2%97%A5" alt="Banner ticker" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=14&duration=4000&pause=2000&color=6366F1&center=true&vCenter=true&width=620&height=30&lines=%E2%97%A4+FULL-STACK+%7C+AI+%26+VOICE+SYSTEMS+%7C+ENTERPRISE+CRM+%7C+OPEN+SOURCE+%E2%97%A5" alt="Banner ticker" />
 
 <br/><br/>
 
 <!-- Profile Badges -->
 <img src="https://komarev.com/ghpvc/?username=Isuru-CodeX&label=Profile%20Views&color=7c3aed&style=for-the-badge&logo=eye" alt="Profile views" />
 <a href="https://github.com/Isuru-CodeX?tab=followers"><img src="https://img.shields.io/github/followers/Isuru-CodeX?label=Followers&style=for-the-badge&logo=github&color=6366f1&logoColor=white" alt="Followers" /></a>
-<a href="https://github.com/Isuru-CodeX?tab=repositories"><img src="https://img.shields.io/badge/Repos-5-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
+<a href="https://github.com/Isuru-CodeX?tab=repositories"><img src="https://img.shields.io/badge/Repos-8-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
 <img src="https://img.shields.io/badge/Experience-Full--Stack%20%26%20AI-10b981?style=for-the-badge&logo=rocket&logoColor=white" alt="Experience" />
 
 <br/><br/>
@@ -59,34 +59,35 @@ const isuru: Developer = {
     "Python 🐍", "TypeScript ⚡", "Java ☕", "PHP 🐘", "JavaScript"
   ],
   frameworks: [
-    "FastAPI", "React 19", "Tailwind CSS 4",
-    "Hibernate ORM", "React Native / Expo"
+    "FastAPI", "Laravel 12", "React 19", "Vue.js 3", "Tailwind CSS",
+    "Hibernate ORM", "Electron", "React Native / Expo"
   ],
-  currentlyBuilding: "CareerLens AI — Autonomous Career Co-Pilot",
+  currentlyBuilding: "CareerLens AI & Nexora Enterprise CRM",
   currentlyLearning: [
-    "Real-Time Voice AI & Audio Processing",
-    "Cloud Architecture (Docker · CI/CD)",
-    "Scalable Distributed Systems",
+    "Real-Time Voice AI & Agentic Workflows",
+    "Cloud Native Architecture (Docker · Microservices · CI/CD)",
+    "High-Throughput Distributed Systems",
   ],
   askMeAbout: [
-    "FastAPI REST design", "React 19", "Java EE / MVC",
-    "Database modeling", "AI/NLP integration",
+    "Full-Stack Architecture", "FastAPI & Python", "Laravel 12 & PHP",
+    "React 19 & Vue 3", "Database Modeling & Query Tuning", "AI/NLP Systems",
   ],
   funFact: "I love turning caffeine ☕ + ideas 💡 into working products 🚀",
 };
 ```
 
 ```diff
-+ ai & voice co-pilots · web applications · mobile apps
++ ai & voice co-pilots · enterprise crm · web & mobile apps
 + rest apis · stripe e-commerce · database systems
-+ zero-pii security · automated testing · devops & docker
++ zero-pii security · automated testing (pytest & pest) · devops & docker
 - "it can't be done"
 ```
 
 - 🔭 &nbsp;Currently architecting **[CareerLens AI](https://github.com/Isuru-CodeX/CareerLens)** — enterprise-grade AI career intelligence platform
-- 🎙️ &nbsp;Built a **Real-Time Voice AI Mock Interview Simulator** with STAR scoring & live Web Audio VU meter
-- 🌱 &nbsp;Diving deep into **distributed systems, Docker, and production-grade CI/CD pipelines**
-- 🏆 &nbsp;Shipped **5 full-stack / AI projects** across Python, Java EE, PHP, and React Native
+- 💼 &nbsp;Engineered **[Nexora CRM](https://github.com/Isuru-CodeX/Nexora)** — open-source enterprise CRM powered by Laravel 12 & Vue 3.4
+- 🎙️ &nbsp;Built **[CodePilot AI](https://github.com/Isuru-CodeX/CodePilot_AI)** & **Real-Time Voice AI Mock Interview Simulator** with STAR scoring
+- 🏆 &nbsp;Shipped **8 full-stack & AI repositories** across Python, Laravel, TypeScript, Java EE, and React Native
+- 🌱 &nbsp;Diving deep into **distributed systems, Docker containerization, and production-grade CI/CD pipelines**
 - 📫 &nbsp;Reach me on **[LinkedIn](https://www.linkedin.com/in/isuru-rathnayaka-220484288/)** or **isururathnayaka999@gmail.com**
 
 <!-- Animated Divider -->
@@ -111,32 +112,40 @@ const isuru: Developer = {
 <div align="center">
 
 ### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,java,php,react,html,css,tailwind,nodejs,bootstrap&theme=dark&perline=12" alt="Languages and frameworks" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,java,php,laravel,vue,react,tailwind,vite,electron&theme=dark&perline=12" alt="Languages and frameworks" />
 
 ### 🗄️ Databases & Dev Tools
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,maven,git,github,vscode,idea,postman,docker,linux&theme=dark&perline=11" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,maven,docker,git,github,vscode,idea,postman,linux&theme=dark&perline=11" alt="Tools" />
 
 <br/><br/>
 
 <!-- Framework Badges Row 1 -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12" />
 <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
+<img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js 3" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Tailwind_CSS_4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Java_EE-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java EE" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
 
 <br/>
 
 <!-- Framework Badges Row 2 -->
+<img src="https://img.shields.io/badge/Java_EE-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java EE" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+<img src="https://img.shields.io/badge/MySQL_8.4-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+
+<br/>
+
+<!-- Framework Badges Row 3 -->
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
+<img src="https://img.shields.io/badge/Pest_PHP-FC0B64?style=flat-square&logo=pest&logoColor=white" alt="Pest PHP" />
 <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" alt="Tomcat" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -179,17 +188,44 @@ const isuru: Developer = {
       <img src="https://img.shields.io/github/repo-size/Isuru-CodeX/CareerLens?style=flat-square&color=purple&label=Repo%20Size" />
     </td>
   </tr>
+
+  <!-- Nexora CRM - Full Width Showcase -->
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/Isuru-CodeX/Nexora">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=1000&color=01C7F4&center=true&vCenter=true&width=700&height=38&lines=%F0%9F%92%BC+Nexora+CRM+%E2%80%94+Open-Source+Enterprise+Platform;%F0%9F%9A%80+Laravel+12+%7C+Vue+3.4+%7C+Tailwind+CSS+%7C+MySQL+8.4;%E2%9C%85+Pest+PHP+Passing+%E2%80%A2+Modular+Monolith+%E2%80%A2+Pint+Styled" alt="Nexora CRM" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <p><b>💼 <a href="https://github.com/Isuru-CodeX/Nexora">Nexora CRM</a></b> &nbsp;<img src="https://img.shields.io/badge/🌟_Enterprise_CRM-Laravel_12_%2B_Vue_3-01C7F4?style=flat-square" alt="Enterprise CRM" /></p>
+      <p>Modern open-source enterprise customer relationship management platform engineered with <b>Laravel 12, PHP 8.3+, and Vue 3.4</b>. Features interactive sales pipelines, multi-channel customer communications, automated lead routing, comprehensive reporting analytics, clean modular architecture, and automated test coverage with Pest PHP.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP_8.3+-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue.js_3.4-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS_3-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL_8.4_LTS-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pest_PHP-Passing_✅-10b981?style=flat-square&logo=pest&logoColor=white" />
+      </p>
+      <img src="https://img.shields.io/github/last-commit/Isuru-CodeX/Nexora?style=flat-square&label=Last%20Commit&logo=git" />
+      &nbsp;
+      <img src="https://img.shields.io/github/repo-size/Isuru-CodeX/Nexora?style=flat-square&color=blue&label=Repo%20Size" />
+    </td>
+  </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3>🖥️ <a href="https://github.com/Isuru-CodeX/PowerRig">PowerRig</a></h3>
-      <p>Full-featured PHP e-commerce platform for PC parts & gaming gear. Stripe checkout, wishlist, automated PDF invoice generation, and product management.</p>
+      <h3>🎙️ <a href="https://github.com/Isuru-CodeX/CodePilot_AI">CodePilot AI (Vysper)</a></h3>
+      <p>Stealth AI interview assistant desktop app with invisible screen overlay, real-time audio capture, OCR extraction, and Gemini multimodal intelligence.</p>
       <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-4E75F6?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure_Speech-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
       </p>
-      <img src="https://img.shields.io/github/last-commit/Isuru-CodeX/PowerRig?style=flat-square&label=last%20commit" />
+      <img src="https://img.shields.io/github/last-commit/Isuru-CodeX/CodePilot_AI?style=flat-square&label=last%20commit" />
     </td>
     <td width="50%" valign="top">
       <h3>📱 <a href="https://github.com/Isuru-CodeX/SmartTrade">SmartTrade</a></h3>
@@ -205,6 +241,17 @@ const isuru: Developer = {
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/Isuru-CodeX/PowerRig">PowerRig</a></h3>
+      <p>Full-featured PHP e-commerce platform for PC parts & gaming gear. Stripe checkout, wishlist, automated PDF invoice generation, and product management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+      </p>
+      <img src="https://img.shields.io/github/last-commit/Isuru-CodeX/PowerRig?style=flat-square&label=last%20commit" />
+    </td>
+    <td width="50%" valign="top">
       <h3>📚 <a href="https://github.com/Isuru-CodeX/BookVerse">BookVerse</a></h3>
       <p>Java EE digital library portal with MVC, Front Controller & DAO patterns. Member portal, loan/reservation workflows, subscription plans, reviews, and admin dashboard.</p>
       <p>
@@ -215,6 +262,8 @@ const isuru: Developer = {
       </p>
       <img src="https://img.shields.io/github/last-commit/Isuru-CodeX/BookVerse?style=flat-square&label=last%20commit" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>✅ <a href="https://github.com/Isuru-CodeX/Task-Tracker">Task-Tracker</a></h3>
       <p>Cross-platform mobile task manager built with React Native & Expo, backed by a Java Servlets + Hibernate ORM REST API and MySQL database.</p>
@@ -225,6 +274,17 @@ const isuru: Developer = {
         <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
       </p>
       <img src="https://img.shields.io/github/last-commit/Isuru-CodeX/Task-Tracker?style=flat-square&label=last%20commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/Isuru-CodeX">3D Animated Portfolio</a></h3>
+      <p>Interactive 3D developer portfolio powered by React 19, Three.js WebGL celestial constellations, Framer Motion animations, and dark/light modes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <img src="https://img.shields.io/badge/Status-Live%20Portfolio-10b981?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -261,10 +321,13 @@ const isuru: Developer = {
 | 📦 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🕒 Last Push |
 |---|---|---|:---:|---|
 | [**CareerLens**](https://github.com/Isuru-CodeX/CareerLens) | 🤖 Autonomous AI Career Co-Pilot & ATS Intelligence with Voice AI mock interviews | Python / TypeScript | 0 | - |
+| [**Nexora**](https://github.com/Isuru-CodeX/Nexora) | 💼 Open-source enterprise CRM with modular architecture, pipelines & Pest tests | PHP / Vue.js | 0 | - |
+| [**CodePilot_AI**](https://github.com/Isuru-CodeX/CodePilot_AI) | 🎙️ Stealth interview assistant with invisible overlay, OCR & Gemini multimodal | TypeScript / Electron | 0 | - |
 | [**SmartTrade**](https://github.com/Isuru-CodeX/SmartTrade) | 📱 Java & Hibernate phone marketplace with Stripe checkout & admin panel | Java | 0 | - |
 | [**PowerRig**](https://github.com/Isuru-CodeX/PowerRig) | 🖥️ PHP e-commerce platform with Stripe, wishlist & PDF invoices | PHP | 0 | - |
 | [**BookVerse**](https://github.com/Isuru-CodeX/BookVerse) | 📚 Java EE digital library with MVC & DAO patterns, loan & admin systems | Java | 0 | - |
 | [**Task-Tracker**](https://github.com/Isuru-CodeX/Task-Tracker) | ✅ React Native + Expo mobile task manager with Java Hibernate REST backend | TypeScript | 0 | - |
+| [**Isuru-CodeX**](https://github.com/Isuru-CodeX/Isuru-CodeX) | 🚀 Dynamic GitHub profile README repository with CI/CD automation | Markdown | 0 | - |
 <!--END_SECTION:repos-->
 
 <!-- Animated Divider -->
@@ -347,16 +410,16 @@ flowchart LR
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                    🏆  ISURU'S ROADMAP  🏆                          ║
+║                    🏆  ISURU'S ROADMAP  🏆                           ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  ✅  Shipped 5 full-stack & AI projects                             ║
-║  ✅  Built real-time Voice AI with STAR scoring & VU meter          ║
-║  ✅  Mastered MVC, DAO & Front Controller patterns in Java EE       ║
-║  ✅  Implemented ATS stress-testing with 4-tier engine              ║
-║  🔲  Cloud containerisation & CI/CD (Docker · GitHub Actions)      ║
-║  🔲  Automated end-to-end testing across all production projects    ║
-║  🔲  Deploy live cloud-hosted demo of CareerLens AI                 ║
-║  🔲  Build & publish an open-source Python library                  ║
+║  ✅  Shipped 8 full-stack & AI repositories across GitHub            ║
+║  ✅  Architected Nexora Enterprise CRM (Laravel 12 + Vue 3 + Pest)   ║
+║  ✅  Built real-time Voice AI with STAR scoring & live VU meter      ║
+║  ✅  Engineered CodePilot AI with stealth overlay & Gemini vision    ║
+║  🔲  Cloud containerisation & CI/CD (Docker · GitHub Actions)        ║
+║  🔲  Deploy live cloud-hosted demos for CareerLens & Nexora CRM      ║
+║  🔲  Automated end-to-end testing across all production projects     ║
+║  🔲  Build & publish an open-source Python / TypeScript library      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -380,12 +443,12 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=600&height=36&lines=%F0%9F%A4%9D%20Open%20to%20collaborate%20on%20interesting%20projects!;%F0%9F%92%A1%20AI%20Systems%20%7C%20FastAPI%20%7C%20React%20%7C%20Java%20EE;%F0%9F%9A%80%20Let%27s%20build%20something%20amazing%20together!" alt="Collaboration" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=620&height=36&lines=%F0%9F%A4%9D%20Open%20to%20collaborate%20on%20interesting%20projects!;%F0%9F%92%A1%20AI%20Systems%20%7C%20FastAPI%20%7C%20Laravel%2012%20%7C%20React%20%7C%20Java;%F0%9F%9A%80%20Let%27s%20build%20something%20amazing%20together!" alt="Collaboration" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Open_to-Collaboration-10b981?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaboration" />
-<img src="https://img.shields.io/badge/Interested_in-AI_%7C_FastAPI_%7C_React_%7C_Java_EE-6366f1?style=for-the-badge&logoColor=white" alt="Interests" />
+<img src="https://img.shields.io/badge/Interested_in-AI_%7C_FastAPI_%7C_Laravel_12_%7C_React_%7C_Java-6366f1?style=for-the-badge&logoColor=white" alt="Interests" />
 <img src="https://img.shields.io/badge/Status-Available_for_Opportunities-f59e0b?style=for-the-badge&logo=calendar&logoColor=white" alt="Available" />
 
 </div>
