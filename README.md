@@ -302,10 +302,10 @@ const isuru: Developer = {
 <table>
   <tr align="center">
     <td valign="top">
-      <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Isuru-CodeX&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=6366f1&text_color=e2e8f0&ring_color=7c3aed" alt="GitHub Stats" />
+      <img height="180" src="https://github-readme-stats-murex-eta.vercel.app/api?username=Isuru-CodeX&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=6366f1&text_color=e2e8f0&ring_color=7c3aed" alt="GitHub Stats" />
     </td>
     <td valign="top">
-      <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Isuru-CodeX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=e2e8f0&langs_count=8" alt="Top Languages" />
+      <img height="180" src="https://github-readme-stats-murex-eta.vercel.app/api/top-langs?username=Isuru-CodeX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=e2e8f0&langs_count=8" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -327,14 +327,14 @@ const isuru: Developer = {
 <!--START_SECTION:repos-->
 | 📦 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🕒 Last Contribution |
 |---|---|---|:---:|:---:|
-| [**Nexora**](https://github.com/Isuru-CodeX/Nexora) | 💼 Open-source enterprise CRM with modular architecture, pipelines & Pest tests | PHP / Vue.js | 1 | Nov 13, 2026 |
+| [**Nexora**](https://github.com/Isuru-CodeX/Nexora) | 💼 Open-source enterprise CRM with modular architecture, pipelines & Pest tests | PHP / Vue.js | 1 | Nov 14, 2026 |
 | [**CareerLens**](https://github.com/Isuru-CodeX/CareerLens) | 🤖 Autonomous AI Career Co-Pilot & ATS Intelligence with Voice AI mock interviews | Python / TypeScript | 1 | Nov 09, 2026 |
 | [**CodePilot_AI**](https://github.com/Isuru-CodeX/CodePilot_AI) | 🎙️ Stealth interview assistant with invisible overlay, OCR & Gemini multimodal | TypeScript / Electron | 0 | Nov 11, 2026 |
 | [**BookVerse**](https://github.com/Isuru-CodeX/BookVerse) | 📚 Java EE digital library with MVC & DAO patterns, loan & admin systems | Java | 0 | Nov 10, 2026 |
 | [**SmartTrade**](https://github.com/Isuru-CodeX/SmartTrade) | 📱 Java & Hibernate phone marketplace with Stripe checkout & admin panel | Java | 0 | Nov 05, 2026 |
 | [**PowerRig**](https://github.com/Isuru-CodeX/PowerRig) | 🖥️ PHP e-commerce platform with Stripe, wishlist & PDF invoices | PHP | 0 | Nov 05, 2026 |
 | [**Task-Tracker**](https://github.com/Isuru-CodeX/Task-Tracker) | ✅ React Native + Expo mobile task manager with Java Hibernate REST backend | TypeScript | 0 | Nov 05, 2026 |
-| [**Isuru-CodeX**](https://github.com/Isuru-CodeX/Isuru-CodeX) | 🚀 Dynamic GitHub profile README repository with CI/CD automation | Markdown | 0 | Nov 13, 2026 |
+| [**Isuru-CodeX**](https://github.com/Isuru-CodeX/Isuru-CodeX) | 🚀 Dynamic GitHub profile README repository with CI/CD automation | Markdown | 0 | Nov 14, 2026 |
 <!--END_SECTION:repos-->
 
 <!-- Animated Divider -->
