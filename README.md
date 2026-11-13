@@ -298,15 +298,22 @@ const isuru: Developer = {
 
 <div align="center">
 
-<!-- Stats Cards Row -->
-<img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Isuru-CodeX&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=6366f1&text_color=e2e8f0&ring_color=7c3aed" alt="GitHub Stats" />
-&nbsp;
-<img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Isuru-CodeX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=e2e8f0&langs_count=8" alt="Top Languages" />
+<!-- Stats Cards Row (Locked Side-by-Side with A+ in Middle) -->
+<table>
+  <tr align="center">
+    <td valign="top">
+      <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Isuru-CodeX&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=6366f1&text_color=e2e8f0&ring_color=7c3aed" alt="GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Isuru-CodeX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=e2e8f0&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <!-- Streak Stats Card -->
-<img height="195" src="https://streak-stats.demolab.com?user=Isuru-CodeX&theme=tokyonight&hide_border=true&background=0D1117&ring=8b5cf6&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
+<img height="180" src="https://streak-stats.demolab.com?user=Isuru-CodeX&theme=tokyonight&hide_border=true&background=0D1117&ring=8b5cf6&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
 
 
 
