@@ -171,7 +171,7 @@ const isuru: Developer = {
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <p><b>🎙️ <a href="https://github.com/Isuru-CodeX/CareerLens">CareerLens AI</a></b> &nbsp;<img src="https://img.shields.io/badge/🏆_Flagship_Project-Enterprise_Grade-8b5cf6?style=flat-square" alt="Flagship" /></p>
+      <p><b>🎙️ <a href="https://github.com/Isuru-CodeX/CareerLens">CareerLens AI</a></b> &nbsp;<img src="https://img.shields.io/badge/%F0%9F%8F%86_Flagship_Project-Enterprise_Grade-8b5cf6?style=flat-square" alt="Flagship" /></p>
       <p>Enterprise-grade Autonomous AI Career Co-Pilot & ATS Intelligence platform with <b>real-time Voice AI mock interviews</b> (STAR scoring + live Web Audio VU meter), 54-role trajectory comparator, Zero-PII GitHub/LinkedIn skill discovery, dense-vector RAG with 4-tier ATS stress-testing (Workday, Greenhouse, Taleo, Lever), streaming Cover Letter Studio, drag-and-drop Kanban board, and triple-theme system.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -180,7 +180,7 @@ const isuru: Developer = {
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind_CSS_4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pytest-87_Passed_✅-10b981?style=flat-square&logo=pytest&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pytest-87_Passed_%E2%9C%85-10b981?style=flat-square&logo=pytest&logoColor=white" />
         <img src="https://img.shields.io/badge/Privacy-Zero_PII_Policy-0ea5e9?style=flat-square" />
       </p>
       <img src="https://img.shields.io/github/last-commit/Isuru-CodeX/CareerLens?style=flat-square&label=Last%20Commit&logo=git" />
@@ -199,7 +199,7 @@ const isuru: Developer = {
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <p><b>💼 <a href="https://github.com/Isuru-CodeX/Nexora">Nexora CRM</a></b> &nbsp;<img src="https://img.shields.io/badge/🌟_Enterprise_CRM-Laravel_12_%2B_Vue_3-01C7F4?style=flat-square" alt="Enterprise CRM" /></p>
+      <p><b>💼 <a href="https://github.com/Isuru-CodeX/Nexora">Nexora CRM</a></b> &nbsp;<img src="https://img.shields.io/badge/%F0%9F%8C%9F_Enterprise_CRM-Laravel_12_%2B_Vue_3-01C7F4?style=flat-square" alt="Enterprise CRM" /></p>
       <p>Modern open-source enterprise customer relationship management platform engineered with <b>Laravel 12, PHP 8.3+, and Vue 3.4</b>. Features interactive sales pipelines, multi-channel customer communications, automated lead routing, comprehensive reporting analytics, clean modular architecture, and automated test coverage with Pest PHP.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
@@ -207,7 +207,7 @@ const isuru: Developer = {
         <img src="https://img.shields.io/badge/Vue.js_3.4-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind_CSS_3-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL_8.4_LTS-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pest_PHP-Passing_✅-10b981?style=flat-square&logo=pest&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pest_PHP-Passing_%E2%9C%85-10b981?style=flat-square&logo=pest&logoColor=white" />
       </p>
       <img src="https://img.shields.io/github/last-commit/Isuru-CodeX/Nexora?style=flat-square&label=Last%20Commit&logo=git" />
       &nbsp;
@@ -299,14 +299,14 @@ const isuru: Developer = {
 <div align="center">
 
 <!-- Stats Cards Row -->
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Isuru-CodeX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=6366f1&text_color=e2e8f0&ring_color=7c3aed" alt="GitHub Stats" />
+<img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Isuru-CodeX&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=6366f1&text_color=e2e8f0&ring_color=7c3aed" alt="GitHub Stats" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Isuru-CodeX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=e2e8f0&langs_count=8" alt="Top Languages" />
+<img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Isuru-CodeX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&text_color=e2e8f0&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
 <!-- Streak Stats Card -->
-<img src="https://streak-stats.demolab.com?user=Isuru-CodeX&theme=tokyonight&hide_border=true&background=0D1117&ring=8b5cf6&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
+<img height="195" src="https://streak-stats.demolab.com?user=Isuru-CodeX&theme=tokyonight&hide_border=true&background=0D1117&ring=8b5cf6&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
 
 
 
@@ -357,10 +357,10 @@ const isuru: Developer = {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🦈_Pull_Shark-x2-1f6feb?style=for-the-badge" alt="Pull Shark x2" />
-<img src="https://img.shields.io/badge/🤝_Pair_Extraordinaire-8957e5?style=for-the-badge&logoColor=white" alt="Pair Extraordinaire" />
-<img src="https://img.shields.io/badge/⭐_GitHub_Pro-d29922?style=for-the-badge&logoColor=white" alt="GitHub Pro" />
-<img src="https://img.shields.io/badge/⚡_Quickdraw-ea580c?style=for-the-badge&logoColor=white" alt="Quickdraw" />
+<img src="https://img.shields.io/badge/%F0%9F%A6%88_Pull_Shark-x2-1f6feb?style=for-the-badge" alt="Pull Shark x2" />
+<img src="https://img.shields.io/badge/%F0%9F%A4%9D_Pair_Extraordinaire-8957e5?style=for-the-badge&logoColor=white" alt="Pair Extraordinaire" />
+<img src="https://img.shields.io/badge/%E2%AD%90_GitHub_Pro-d29922?style=for-the-badge&logoColor=white" alt="GitHub Pro" />
+<img src="https://img.shields.io/badge/%E2%9A%A1_Quickdraw-ea580c?style=for-the-badge&logoColor=white" alt="Quickdraw" />
 
 </div>
 
