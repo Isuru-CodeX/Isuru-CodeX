@@ -313,7 +313,7 @@ const isuru: Developer = {
 <br/>
 
 <!-- Streak Stats Card -->
-<img height="180" src="https://streak-stats.demolab.com?user=Isuru-CodeX&theme=tokyonight&hide_border=true&background=0D1117&ring=8b5cf6&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
+<img height="180" src="https://streak-stats.demolab.com?user=Isuru-CodeX&theme=tokyonight&hide_border=true&background=0D1117&ring=8b5cf6&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8&timezone=Asia%2FColombo" alt="GitHub Streak" />
 
 
 
